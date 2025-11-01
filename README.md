@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning flutter.<br>🎯 Goals: seeking 🔎 job in flutter and make better live.<br>🎲 And i watch 😀 movies and read 📚 non-fiction books.</p>
+<p align="left">
+✨ Crafting clean and creative Flutter apps since 2023.<br>
+📱 Skilled in <b>Flutter</b> and passionate about building beautiful, high-performance mobile experiences.<br>
+🎯 Goals: Seeking exciting opportunities as a Flutter developer and contributing to impactful projects.<br>
+🎬 In my free time, I enjoy watching movies and reading 📚 non-fiction books.
+</p>
 
 ###
 
